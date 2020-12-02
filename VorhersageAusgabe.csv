@@ -1,0 +1,7 @@
+;Grundstück in qm;Grundstücksform;Steigung;Bezirk;Zone;Lage;Typ;Zustand;Gebaut;Renoviert;Zustand Fassade;Kellerflche in qm;Heizung;Heizungsqualitt;Klimaanlage;Erster Stock in qm;Zweiter Stock in qm;Wohnflche in qm;Schlafzimmer;Küchen;Küchenqualitt;Rume;Garage Typ;Garagenkapazitt;Pool;Verkaufsmonat;Verkaufsjahr;Preis;Vorhergesagter Preis
+0;898;IR1;Nein;Somerset;RL;Norm;2Fam;4;2107;2107;3;183;GasA;Ty;Y;183;0;183;6;2;3;10;Anbau;2;;8;2136;156500;178125.4305008271
+1;725;Reg;Nein;Somerset;RL;Norm;1Fam;7;2096;2138;3;80;GasA;Ex;Y;83;0;83;3;1;4;5;Freistehend;1;;6;2140;137900;132763.95836165364
+2;725;Reg;Nein;Somerset West;RL;Norm;1Fam;5;2135;2135;3;83;GasA;Ex;Y;83;74;157;3;1;4;8;Anbau;2;;4;2136;184000;184172.2916376397
+3;211;Reg;Nein;North East;RL;Norm;RMH;5;2133;2134;3;71;GasA;Ex;Y;71;80;151;2;1;4;6;Eingebaut;2;;7;2139;173000;169755.79761277267
+4;557;Reg;Nein;University;RL;Norm;1Fam;5;2056;2080;2;94;GasA;Ex;Y;94;0;141;4;1;3;7;;0;;6;2136;102000;123539.98886572712
+5;799;Reg;Ja;Water District;RM;Norm;1Fam;6;2067;2080;3;72;GasA;Ty;Y;72;55;128;3;1;3;7;Freistehend;1;;6;2136;119500;119955.04759248348
